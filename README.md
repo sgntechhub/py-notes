@@ -4,6 +4,8 @@
 ## Beginner
 
 - [Open Sourcing a Python Project the Right Way](https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 
 ## CLI
 
