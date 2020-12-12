@@ -1,15 +1,19 @@
 # Python notes
 > Python notes, learning Python
 
-## Beginner
+## Beginning Started
+
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+
+## Should to know
+
+### Project layout
 
 - [Open Sourcing a Python Project the Right Way](https://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
 
-## Should to know
-
-### Python env
+### Python virtualenv
 ### Requirements file
 
 - [Why and How to make a Requirements.txt](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
