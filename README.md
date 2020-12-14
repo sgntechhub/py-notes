@@ -4,6 +4,7 @@
 ## Beginning Started
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+- [Comprehensive Python cheatsheet](https://github.com/gto76/python-cheatsheet)
 
 ## Should to know
 
